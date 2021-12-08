@@ -1,15 +1,26 @@
 # AHI_EC2
 EC2 TO EC2 
+
 Step 1: Create UBUNTU instance setup and deploy instance without deploying a pem key 
+
 Step 2: Open port 22 (SSH) and 3006 (MYSQL)
+
 Step 3: Connect to the UBUNTU instance using Replit
+
 Step 4: Run command -> Command: ssh AshleyAHI@20.115.25.244
+
 Step 5: Run command -> Sudo apt-get update
+
 Step 6: Create User UBUNTU
+
 Username: dba
+
 Password: ahi2021
+
 - Command Steps:
+- 
 sudo adduser dba
+
 sudo password ahi2021
 -Restart ssh
 sudo service ssh restart
