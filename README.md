@@ -17,8 +17,8 @@ Username: dba
 
 Password: ahi2021
 
-- Command Steps:
-- 
+Command Steps:
+ 
 sudo adduser dba
 
 sudo password ahi2021
