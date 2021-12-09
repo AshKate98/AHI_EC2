@@ -78,4 +78,4 @@ SCP to local machine
 
 Create trigger on MYSQL Workbench sql attachment 
 
-Step 11: Hot replica 
+
