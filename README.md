@@ -1,6 +1,6 @@
-                                                           EC2 to EC2 Instance Assignment 
+                                                  EC2 to EC2 Instance Assignment 
  
-                                                                Ashley Chinnici 
+                                                        Ashley Chinnici 
  
 Public IP Address:  20.115.25.244
 
