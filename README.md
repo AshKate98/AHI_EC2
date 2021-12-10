@@ -75,7 +75,7 @@ Private IP: 10.0.0.5
 ## Command->ssh Ashley-AHI@20.124.8.176
 
 #Step 16: SCP to local Machine
-## Command-> scp e2e_dump.sql client@20.115.25.244:/home/client
+## Command-> scp e2e_dump.sql client@20.124.8.176:/home/client
 ##On second instance, input the following command:
 ## Command->sudo mysql e2e < e2e_dump.sql
 
