@@ -65,8 +65,8 @@ Private IP: 10.0.0.5
 ##See attached notebook labeled AHI_DEMO.ipynb
 
 #Step 14: #Create a dump (.sql) file
-## Command-> mysqldump -u dba -p e2e > e2e_dump.sql
-## Command-> sudo mysqldump-apt e2e>e2e_dump.sql
+## Command-> mysqldump -u dba -p tempdata > tempdata_dump.sql
+## Command-> sudo mysqldump-apt tempdata>tempdata_dump.sql
 ##  Command-> ls
 
 #Step 15: Launching of 2nd instance on Azure 
