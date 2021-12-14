@@ -75,9 +75,9 @@ Private IP: 10.0.0.5
 ## Command->ssh Ashley-AHI@20.124.8.176
 
 #Step 16: SCP to local Machine
-## Command-> scp e2e_dump.sql client@20.124.8.176:/home/client
+## Command-> scp tempdata_dump.sql client@20.124.8.176:/home/client
 ##On second instance, input the following command:
-## Command->sudo mysql e2e < e2e_dump.sql
+## Command->sudo mysql tempdata < tempdata_dump.sql
 
 #Step 17:Connect to MYSQL Workbench and create a trigger for H1N1
 
